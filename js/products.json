@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "image": "../assets/zestaw1.webp",
+    "name": "Zestaw owoców",
+    "price": "129.99",
+    "quantity": 1
+  },
+  {
+      "id": 2,
+      "image": "../assets/ananas1.webp",
+      "name": "Ananas",
+      "price": "19.99",
+      "quantity": 1
+  },
+  {
+    "id": 3,
+    "image": "../assets/marakuja1.jpg",
+    "name": "Marakuja",
+    "price": "39.99",
+    "quantity": 1
+  },
+  {
+    "id": 4,
+    "image": "../assets/Smoczy-owoc1.webp",
+    "name": "Smoczy owoc",
+    "price": "29.99",
+    "quantity": 1
+  },
+  {
+    "id": 6,
+    "image": "../assets/Manogstan1.jpg",
+    "name": "Mangostan",
+    "price": "49.99",
+    "quantity": 1
+  },
+  {
+    "id": 7,
+    "image": "../assets/Granat.webp",
+    "name": "Granat",
+    "price": "29.99",
+    "quantity": 1
+  },
+  {
+    "id": 8,
+    "image": "../assets/limonka.png",
+    "name": "Limonki",
+    "price": "12.99",
+    "quantity": 1
+  },
+  {
+    "id": 9,
+    "image": "../assets/mandarynki2.jpg",
+    "name": "Mandarynki",
+    "price": "9.99",
+    "quantity": 1
+  },
+  {
+    "id": 10,
+    "image": "../assets/Wingorona1.webp",
+    "name": "Winogrona",
+    "price": "14.99",
+    "quantity": 1
+  }
+  ]
